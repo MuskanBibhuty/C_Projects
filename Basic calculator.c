@@ -111,5 +111,7 @@ int main()
         scanf(" %c", &confirm);
     } while (confirm == 'y' || confirm == 'Y');
 
+    printf("Working with you has been an honor.")
+
     return 0;
 }
